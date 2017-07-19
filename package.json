@@ -1,0 +1,17 @@
+{
+  "name": "filetypes",
+  "version": "1.0.0",
+  "description": "Filetypes is a library that helps you guess the file and mine types of files using magic numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "types",
+    "mine",
+    "files"
+  ],
+  "author": "geofmureithi",
+  "license": "Apache-2.0"
+}
